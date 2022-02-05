@@ -30,7 +30,7 @@ Run development server and enjoy
 
 ## About
 
-Konstantin Münster – [iruthaya.dev](https://iruthaya.netlify.app/) – [johnsanthosh69@gmail.com](mailto:johnsanthosh69@gmail.com)
+Iruthaya Santhose – [iruthaya.dev](https://iruthaya.netlify.app/) – [johnsanthosh69@gmail.com](mailto:johnsanthosh69@gmail.com)
 
 ##### Acknowledgment
 
